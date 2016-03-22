@@ -22,6 +22,7 @@ public class Test {
 		empOne = empTwo;
 		
 		empOne.printEmployee();
+		System.out.println("COmpany name is:"+Employee.companyName);
 	}
 
 }
